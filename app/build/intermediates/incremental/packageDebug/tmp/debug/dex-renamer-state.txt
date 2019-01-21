@@ -1,0 +1,4 @@
+#Mon Jan 21 17:57:17 GMT 2019
+base.0=/home/zeus/AndroidStudioProjects/FindMyAge/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
